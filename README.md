@@ -30,7 +30,6 @@ Here're some of the project's major features:
 
 <h2>Like our work?</h2>
 
-Contact us at: ps2644@srmist.edu.in sshsrn@gmail.com 
 
 ## Screenshots
 ![](readme-assets/1.png)
